@@ -1,2 +1,3 @@
 # NLP
-Implementations from nlp course from university (SRTTU)
+## Session 1
+Vectorization is added
