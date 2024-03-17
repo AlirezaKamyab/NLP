@@ -19,7 +19,6 @@ import requests
 import time
 import csv
 import pandas as pd
-import sys
 
 BASE_URL = 'https://ganjoor.net/ferdousi/shahname/'
 
